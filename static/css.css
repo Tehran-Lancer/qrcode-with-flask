@@ -1,0 +1,164 @@
+.fl-r {
+  float: right;
+}
+.top-menu {
+  width: 100%;
+  float: right;
+}
+.cr {
+  width: 100%;
+}
+.top-menu .cr .top-right {
+  width: 50%;
+  float: right;
+  color: black;
+}
+.top-right ul li i {
+  margin-left: 10px;
+}
+.top-right ul li {
+  float: right;
+  margin-left: 40px;
+  list-style: none;
+  line-height: 40px;
+  font-size: 20px;
+}
+.top-menu .top-left {
+  width: 50%;
+  float: left;
+  color: black;
+}
+.top-left ul li {
+  float: left;
+  list-style: none;
+}
+.top-left ul li i {
+  font-size: 18px;
+  padding: 13px 15px;
+}
+.header {
+  width: 100%;
+}
+.header img {
+  max-width: 80px;
+}
+.header img {
+  float: right;
+  padding: 2.5px 5px;
+}
+
+body {
+  direction: rtl;
+}
+@font-face {
+  font-family: "yekan";
+  src: url("Yekan.woff") format("woff");
+}
+
+.l {
+  font-weight: bold;
+  font-size: larger;
+}
+.fl-l {
+  border: 5px solid #00fff7;
+  border-radius: 15px;
+}
+.d-inline {
+  display: inline-block;
+}
+.div-r {
+  float: right;
+  background-color: lightgray;
+}
+.div-l {
+  float: left;
+}
+
+h1 {
+  font-family: "yekan";
+  font-weight: bold;
+}
+.d-block {
+  display: block;
+}
+
+.mr-4 {
+  margin-right: 50px;
+}
+.ml {
+  margin-left: 30px;
+}
+.p-r {
+  float: right;
+  width: 50%;
+  margin-right: 30px;
+}
+.img {
+  width: 450px;
+  float: left;
+  border-radius: 25px;
+  margin-left: 60px;
+}
+h1 {
+  font-family: "yekan";
+  font-weight: bold;
+}
+.width {
+  width: 100%;
+  margin-top: 10px;
+  height: 100px;
+}
+.w {
+  width: 100%;
+  margin-top: 10px;
+}
+.ffy {
+  font-family: "yekan";
+}
+.ffi {
+  font-family: "iransans";
+}
+.padding-60px {
+  padding: 60px;
+}
+.mr-5 {
+  margin-right: 30%;
+}
+.form {
+  padding: 15px;
+  margin-bottom: 10px;
+}
+.fw-b {
+  font-weight: bold;
+}
+
+.w-f {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.mb-6 {
+  margin-bottom: 5rem;
+}
+@media screen and (max-width: 800px) {
+  .p-r {
+    width: 95%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+  }
+  .img {
+    width: 95%;
+    margin-right: 2.5%;
+    margin-left: 2.5%;
+  }
+  .w-f {
+    width: 75%;
+    margin-left: 12.5%;
+    margin-right: 12.5%;
+  }
+  .width {
+    width: 100%;
+    margin-top: 10px;
+    height: 200px;
+  }
+}
