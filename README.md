@@ -35,3 +35,5 @@
 <p>
 The project is open-source, and contributions to improve it are welcome. To contribute, you can fork the repository and submit pull requests.
 </p>
+
+<h4>Thanks to the project developer Miss Samin Shojaei </h4>
